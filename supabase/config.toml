@@ -1,0 +1,13 @@
+project_id = "doabpodnyscrftrlydyz"
+
+[functions.ai-job-recommendations]
+verify_jwt = false
+
+[functions.ai-resume-enhancer]
+verify_jwt = false
+
+[functions.ai-career-tools]
+verify_jwt = false
+
+[functions.ai-job-matching]
+verify_jwt = false
